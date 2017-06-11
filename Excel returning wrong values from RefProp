@@ -1,0 +1,16 @@
+I have encountered wrong values from RefProp using Excel
+Example:
+  =Entropy("R134a","Th","SI",368,402.505)
+should return 1.60000000
+instead
+it returns 1.19171415
+I am working on a graduate studies requirement using RefProp data, unfortunately, I cannot do it in Excel because it returns wrong values.
+In MatLab, it returns the proper values:
+ refpropm('S','T',368,'H',402505,'R134a')
+ ans =
+1.6000e+03
+Coding is a bit tedious, however, if it would only be possible to use Excel with macros, it would have been much more easier.
+Kindly please enlighten what NIST is been doing to fix the issue
+Thanks
+
+Rodel, Manila, Philippines
