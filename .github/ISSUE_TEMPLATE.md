@@ -3,14 +3,14 @@ If you have an issue to report, please continue and fill out the applicable sect
 
 ### Prerequisites
 
+**NOTE**: Be aware that all issues are publicly accessible and viewable.  Thus please do not post any code or other content that is protected intellectual property or under copyright.
+
 Before posting an issue, please:  
     * Check the [FAQ](https://pages.nist.gov/REFPROP-docs/) for common solutions.  
     * Check that your issue isn't already filed under [REFPROP Issues](https://github.com/usnistgov/REFPROP-issues/).  
     * Check the [documentation](http://refprop-docs.readthedocs.io/en/latest/) documentation.  
 
-You can also use markdown to format your issue: [GitHub guide on Markdown](https://guides.github.com/features/mastering-markdown/)
-
-If you have code, please use a code block to ensure that the formatting remains legible in the web interface.  For instance, surround your code in triple backticks:
+You can also use markdown to format your issue: [GitHub guide on Markdown](https://guides.github.com/features/mastering-markdown/). If you have code snippets, please use a code block to ensure that the formatting remains legible in the web interface.  For instance, surround your code in triple backticks:
 
 ``` python
 print('Hello world!')
